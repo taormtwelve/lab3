@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-    double n=2,sum=0;
-     while(n<=69){
+    double n=6,sum=0;
+     while(n<=19){
         sum=sum+(1/n);
         n++;
     }
